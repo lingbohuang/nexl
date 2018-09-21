@@ -20,6 +20,9 @@ Director of NExL
 
 ## Assistant Professors
 
+<table>
+  <tr><td>
+
 {% include figure.html image="https://picsum.photos/600/800?image=894" position="left" width="200" height="400" %}
 
 [Dr. Lu Dong](/nexl/people/lu-dong)
@@ -28,8 +31,9 @@ Director of NExL
 
 **email**: [lu.dong@outlook.com](mailto:lu.dong@outlook.com)
 
+  </td></tr>
 
-<br/><br/>
+  <tr><td>
 
 {% include figure.html image="https://picsum.photos/600/800?image=894" position="left" width="200" height="400" %}
 
@@ -39,6 +43,8 @@ Director of NExL
 
 **email**: [lingbo.huang@outlook.com](mailto:lingbo.huang@outlook.com)
 
+  </td></tr>
+</table>
 
 <br/><br/>
 
