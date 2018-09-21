@@ -16,7 +16,7 @@ Director of NExL
 
 **email**: [ycl@nau.edu.cn](mailto:ycl@nau.edu.cn)
 
-###
+<br>
 
 ## Assistant Professors
 
@@ -29,7 +29,7 @@ Director of NExL
 **email**: [lu.dong@outlook.com](mailto:lu.dong@outlook.com)
 
 
-###
+<br>
 
 {% include figure.html image="https://picsum.photos/600/800?image=894" position="left" width="200" height="400" %}
 
@@ -40,7 +40,7 @@ Director of NExL
 **email**: [lingbo.huang@outlook.com](mailto:lingbo.huang@outlook.com)
 
 
-###
+<br>
 
 {% include figure.html image="https://picsum.photos/600/800?image=894" position="left" width="200" height="400" %}
 
@@ -51,7 +51,7 @@ Director of NExL
 **email**: [ailin.leng@uqconnect.edu.au](mailto:ailin.leng@uqconnect.edu.au)
 
 
-###
+<br>
 
 {% include figure.html image="https://picsum.photos/600/800?image=894" position="left" width="200" height="400" %}
 
@@ -62,7 +62,7 @@ Director of NExL
 **email**: [xueheng.li@outlook.com](mailto:xueheng.li@outlook.com)
 
 
-###
+<br>
 
 {% include figure.html image="https://picsum.photos/600/800?image=894" position="left" width="200" height="400" %}
 
@@ -71,3 +71,5 @@ Director of NExL
 [personal website](https://sites.google.com/site/jindizheng)
 
 **email**: [jindizheng@gmail.com](mailto:jindizheng@gmail.com)
+
+<br>
