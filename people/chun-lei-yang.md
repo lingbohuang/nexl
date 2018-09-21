@@ -7,6 +7,7 @@ categories:
 ## Academic Position
 
 2016.9--Present, Professor, Nanjing Audit University
+
 1997.8--2017.3, Researcher, Academia Sinica
 
 ## Education
