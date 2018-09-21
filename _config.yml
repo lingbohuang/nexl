@@ -98,7 +98,7 @@ navigation_header:
   Search: /nexl/search/
 
 navigation_footer:
-  NExL: https://darn.es
+  NEXL: /nexl/
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
