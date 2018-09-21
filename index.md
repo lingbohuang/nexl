@@ -12,4 +12,4 @@ NExL is founded at Nanjing Audit University in January 2018. Its founding direct
 
 ## Most Recent Publications
 
-- **Chun-Lei Yang**, Boyu Zhang, Gary Charness, Cong Li, and Jaimie W. Lien (in press) [**Endogenous Rewards Promote Cooperation**](http://www.pnas.org/content/early/2018/09/14/1808241115) *PNAS*
+- **Chun-Lei Yang**, Boyu Zhang, Gary Charness, Cong Li, and Jaimie W. Lien (in press) [Endogenous Rewards Promote Cooperation](http://www.pnas.org/content/early/2018/09/14/1808241115) *PNAS*
