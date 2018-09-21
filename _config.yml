@@ -78,7 +78,7 @@ lang: en-US # Set the site language
 title: "NEXL" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "NEXL Website" # Site description and default description, also used in jekyll-seo-tag
-url: "/nexl/" # Site url, also used in jekyll-seo-tag
+url: "" # Site url, also used in jekyll-seo-tag
 baseurl: "/nexl/"
 repo: "https://github.com/daviddarnes/alembic"
 email: "nexl.nau@outlook.com"
