@@ -1,7 +1,7 @@
 ---
 title: Publications
 feature_text: |
-  # Publications
+  # Peer Reviewed Publications
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: ""
 aside: false

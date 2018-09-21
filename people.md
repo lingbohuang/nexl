@@ -1,12 +1,13 @@
 ---
-title: Professor
+title: People
 feature_text: |
   # People at NEXL
 feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: "People at NExL"
+excerpt: ""
 aside: false
 ---
 
+## Professor
 
 {% include figure.html image="https://picsum.photos/600/800?image=894" position="left" width="200" height="400" %}
 
