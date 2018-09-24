@@ -1,12 +1,13 @@
 ---
-title: Forthcoming
+title: Publications
 feature_text: |
-  # Publications
+  # Peer Reviewed Publications
 feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: "Publications"
+excerpt: ""
 aside: false
 ---
 
+## Forthcoming
 
 - **Chun-Lei Yang**, Boyu Zhang, Gary Charness, Cong Li, and Jaimie W. Lien (in press) [Endogenous Rewards Promote Cooperation](http://www.pnas.org/content/early/2018/09/14/1808241115) *PNAS*
 

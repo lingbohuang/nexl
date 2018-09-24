@@ -1,26 +1,32 @@
 ---
-title: Professor
+title: People
 feature_text: |
   # People at NEXL
 feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: "People at NExL"
+excerpt: ""
 aside: false
 ---
 
+## Professor
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" position="left" width="200" height="400" %}
+<br/>
+
+{% include figure.html image="https://picsum.photos/600/800?image=894" position="left" width="150" height="300" %}
 
 [Prof. Chun-Lei Yang](/nexl/people/chun-lei-yang)
 
-Director of NExL
+Director of NEXL
 
 **email**: [ycl@nau.edu.cn](mailto:ycl@nau.edu.cn)
+
 
 <br/><br/>
 
 ## Assistant Professors
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" position="left" width="200" height="400" %}
+<br/>
+
+{% include figure.html image="https://picsum.photos/600/800?image=894" position="left" width="150" height="300" %}
 
 [Dr. Lu Dong](/nexl/people/lu-dong)
 
@@ -31,7 +37,7 @@ Director of NExL
 
 <br/><br/>
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" position="left" width="200" height="400" %}
+{% include figure.html image="https://picsum.photos/600/800?image=894" position="left" width="150" height="300" %}
 
 [Dr. Lingbo Huang](/nexl/people/lingbo-huang)
 
@@ -42,7 +48,7 @@ Director of NExL
 
 <br/><br/>
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" position="left" width="200" height="400" %}
+{% include figure.html image="https://picsum.photos/600/800?image=894" position="left" width="150" height="300" %}
 
 [Dr. Ailin Leng](/nexl/people/ailin-leng)
 
@@ -53,7 +59,7 @@ Director of NExL
 
 <br/><br/>
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" position="left" width="200" height="400" %}
+{% include figure.html image="https://picsum.photos/600/800?image=894" position="left" width="150" height="300" %}
 
 [Dr. Xueheng Li](/nexl/people/xueheng-li)
 
@@ -64,7 +70,7 @@ Director of NExL
 
 <br/><br/>
 
-{% include figure.html image="https://picsum.photos/600/800?image=894" position="left" width="200" height="400" %}
+{% include figure.html image="https://picsum.photos/600/800?image=894" position="left" width="150" height="300" %}
 
 [Dr. Jindi Zheng](/nexl/people/jindi-zheng)
 

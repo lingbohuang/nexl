@@ -1,13 +1,13 @@
 ---
-title: About NExL
+title: About NEXL
 feature_text: |
-  # NExL
-  **N**anjing Economics **Ex**perimental **L**aboratory
+  # NEXL
+  **N**anjing **E**conomics E**X**perimental **L**aboratory
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "NExL is founded at Nanjing Audit University in January 2018. Its founding director is Prof. Chun-Lei Yang."
+excerpt: "NEXL is founded at Nanjing Audit University in January 2018. Its founding director is Prof. Chun-Lei Yang."
 ---
 
-NExL is founded at Nanjing Audit University in January 2018. Its founding director is Prof. Chun-Lei Yang. NExL researchers use a combination of theoretical and experimental methods to understand human decisionmaking and their research has been published in top international journals.
+NEXL is founded at Nanjing Audit University in January 2018. Its founding director is Prof. Chun-Lei Yang. NEXL researchers use a combination of theoretical and experimental methods to understand human decisionmaking and their research has been published in top international journals.
 
 
 ## Most Recent Publications

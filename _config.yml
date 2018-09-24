@@ -75,11 +75,11 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-US # Set the site language
-title: "NExL" # Site name or title, also used in jekyll-seo-tag
+title: "NEXL" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "NExL Website" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
-baseurl: ""
+description: "NEXL Website" # Site description and default description, also used in jekyll-seo-tag
+url: "" # Site url, also used in jekyll-seo-tag
+baseurl: "/nexl/"
 repo: "https://github.com/daviddarnes/alembic"
 email: "nexl.nau@outlook.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
@@ -90,15 +90,15 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site navigation
 navigation_header:
-  Home: /nexl/
-  People: /nexl/people/
-  News: /nexl/news/
-  Seminars: /nexl/seminars/
-  Publications: /nexl/publications/
-  Search: /nexl/search/
+  Home: /
+  People: /people/
+  News: /news/
+  Seminars: /seminars/
+  Publications: /publications/
+  Search: /search/
 
 navigation_footer:
-  NExL: https://darn.es
+  NEXL: /
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
