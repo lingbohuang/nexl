@@ -10,9 +10,14 @@ aside: false
 
 - **Chun-Lei Yang**, Boyu Zhang, Gary Charness, Cong Li, and Jaimie W. Lien (in press) [Endogenous Rewards Promote Cooperation](http://www.pnas.org/content/early/2018/09/14/1808241115) *PNAS*
 
+- **Lu Dong**, **Lingbo Huang** (in press) [Is There No 'I' in Team? Strategic Effects in Multi-Battle Team Competition](http://doi.org/10.1016/j.joep.2018.04.007) *Journal of Economic Psychology*
+
 
 ## 2018
 
+- **Lu Dong**, **Lingbo Huang** (2018) [Favoritism and Fairness in Teams](http://doi.org/10.3390/g9030065) *Games* 9(3), 65
+
+- Simon Gaechter, **Lingbo Huang**, Martin Sefton (2016) [Disappointment Aversion and Social Comparisons in a Real-Effort Competition](https://doi.org/10.1111/ecin.12498) *Economic Inquiry*, 56(3), 1512-1525
 
 ## 2017
 
